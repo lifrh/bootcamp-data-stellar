@@ -1,0 +1,14 @@
+/Users/a2043/Projects/risein-stellar/bootcamp-data-stellar/target/release/deps/serde-a01ec67fbd15682f.d: /Users/a2043/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/a2043/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/a2043/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/a2043/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/a2043/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/a2043/Projects/risein-stellar/bootcamp-data-stellar/target/release/build/serde-2c26f001f74977d7/out/private.rs
+
+/Users/a2043/Projects/risein-stellar/bootcamp-data-stellar/target/release/deps/libserde-a01ec67fbd15682f.rlib: /Users/a2043/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/a2043/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/a2043/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/a2043/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/a2043/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/a2043/Projects/risein-stellar/bootcamp-data-stellar/target/release/build/serde-2c26f001f74977d7/out/private.rs
+
+/Users/a2043/Projects/risein-stellar/bootcamp-data-stellar/target/release/deps/libserde-a01ec67fbd15682f.rmeta: /Users/a2043/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/a2043/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/a2043/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/a2043/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/a2043/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/a2043/Projects/risein-stellar/bootcamp-data-stellar/target/release/build/serde-2c26f001f74977d7/out/private.rs
+
+/Users/a2043/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/a2043/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/a2043/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/a2043/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/a2043/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/a2043/Projects/risein-stellar/bootcamp-data-stellar/target/release/build/serde-2c26f001f74977d7/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/a2043/Projects/risein-stellar/bootcamp-data-stellar/target/release/build/serde-2c26f001f74977d7/out

@@ -1,0 +1,1 @@
+/Users/a2043/Projects/risein-stellar/bootcamp-data-stellar/target/wasm32v1-none/release/notes.wasm: /Users/a2043/Projects/risein-stellar/bootcamp-data-stellar/contracts/notes/src/lib.rs /Users/a2043/Projects/risein-stellar/bootcamp-data-stellar/contracts/notes/src/test.rs
